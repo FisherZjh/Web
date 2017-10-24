@@ -1,0 +1,26 @@
+# Site settings
+name: GRP
+email: 17858950853@163.com
+author: Fisher ZHANG
+url: http://FisherZHANG.github.io
+resume_site: 
+github: https://github.com/FisherZjh/web
+baseurl: ''
+description: Here is GRP Team X
+meta_description: Grop X; GRP
+motto: It's our wits that make us men.
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: FisherZjh
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
